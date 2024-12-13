@@ -3,9 +3,9 @@ import "./App.css";
 
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
-import About from "./components/About";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+// import About from "./components/About";
+// import Contact from "./components/Contact";
+import Footer from "./Components/Footer";
 import Projects from "./Components/Projects";
 
 const siteProps = {
