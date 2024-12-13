@@ -2,7 +2,7 @@ import heroImage from "../assets/imageFrontpage.jpg";
 
 function Home() {
   return (
-    <div>
+    <div id="home">
       <div className="flex flex-wrap pt-24 md:pt-32">
         {/* Left Section */}
         <div className="flex items-center w-full lg:w-1/2">
@@ -23,9 +23,9 @@ function Home() {
             </p>
             <div className="flex flex-col sm:flex-row sm:space-x-4 sm:space-y-0 space-y-3 sm:items-center">
               <a
-                href="https://web3templates.com/templates/nextly-landing-page-template-for-startups"
-                target="_blank"
-                rel="noopener"
+                href="#projects"
+                // target="_blank"
+                // rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-gradient-to-br from-gray-900 to-purple-800 rounded-md"
               >
                 View Projects

@@ -39,11 +39,11 @@ const info = {
     },
 
     {
-      title: " Point of Sales System",
+      title: " Weather-App Project",
       description:
-        " A backend project that helps in operations for inventory, user, and customer management and uses Hibernate to simplify the database interaction code.",
-      technologies: "React, Tailwind, Tensorflow",
-      github: "https://github.com/dsbalico/letter-digit-shape-classification",
+        "It is a web application that provides real-time weather information for any city in the world. It uses the OpenWeatherMap API to fetch weather data.",
+      technologies: "React, Axios",
+      github: "https://github.com/Arpit-26",
       link: "https://github.com/Arpit-26?tab=repositories",
     },
     {
